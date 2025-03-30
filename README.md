@@ -34,31 +34,29 @@ pip install pynput
    - The system recognizes specific finger movements and maps them to mouse pointer movements.
 
 ## Flowchart
-![Flowchart](path/to/flowchart.png)
+![Flowchart](https://github.com/itstheprashant/Controlling-computer-mouse-using-hand-Gestures/blob/2f069fc01e021d9975e4bdfb3167eafa6bc9ecf2/Images/flowchart.png)
 
 ## Hand Landmarks
-![Hand Landmarks](path/to/hand_landmarks.png)
+![Hand Landmarks](https://github.com/itstheprashant/Controlling-computer-mouse-using-hand-Gestures/blob/2f069fc01e021d9975e4bdfb3167eafa6bc9ecf2/Images/Hand%20Landmarks.png)
 
 ## Hand Gestures for Project
 ### Cursor Movements
-![Cursor Movements](path/to/cursor_movements.png)
+![Cursor Movements](https://github.com/itstheprashant/Controlling-computer-mouse-using-hand-Gestures/blob/2f069fc01e021d9975e4bdfb3167eafa6bc9ecf2/Images/Cursor_movements.png)
 
 ### Click Operations
-- Bending the middle finger to perform clicks.
+![Clicking](https://github.com/itstheprashant/Controlling-computer-mouse-using-hand-Gestures/blob/2f069fc01e021d9975e4bdfb3167eafa6bc9ecf2/Images/Clicking.png)
 
 ### Scroll Up and Scroll Down
-![Scrolling](path/to/scrolling.png)
+![Scrolling](https://github.com/itstheprashant/Controlling-computer-mouse-using-hand-Gestures/blob/2f069fc01e021d9975e4bdfb3167eafa6bc9ecf2/Images/Scrolling.png)
 
 ### Changing Volume
-![Volume Control](path/to/volume_control.png)
+![Volume Control](https://github.com/itstheprashant/Controlling-computer-mouse-using-hand-Gestures/blob/2f069fc01e021d9975e4bdfb3167eafa6bc9ecf2/Images/Volume_control.png)
 
 ### Zooming In and Out
-![Zooming](path/to/zooming.png)
+![Zooming](https://github.com/itstheprashant/Controlling-computer-mouse-using-hand-Gestures/blob/2f069fc01e021d9975e4bdfb3167eafa6bc9ecf2/Images/Zooming.png)
 
 ## Summary
 This project highlights the feasibility and effectiveness of replacing conventional input devices with gesture-based controls, offering a more intuitive and accessible user experience. Future improvements could focus on:
 - Enhancing multi-gesture support.
 - Adapting to diverse lighting conditions.
 - Expanding compatibility with different applications.
-
----
