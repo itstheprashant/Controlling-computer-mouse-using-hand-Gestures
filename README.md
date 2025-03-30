@@ -3,6 +3,8 @@
 ## Introduction
 This project implements a gesture-controlled virtual mouse that enables users to perform mouse operations using hand gestures, eliminating the need for a physical mouse. Built using Mediapipe, OpenCV, Pynput, and PyAutoGUI, the system leverages real-time hand tracking and gesture recognition for seamless interaction.
 
+- virtualMouse.py is the final file for the Controlling-computer-mouse-using-hand-Gestures
+
 ## Key Features
 - **95% accuracy** in hand gesture recognition, ensuring precise control.
 - **50% reduction in response latency**, enhancing real-time performance.
